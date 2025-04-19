@@ -1,4 +1,3 @@
-# RR-Team-73-yadtq-yet-another-distributed-task-queue-
 # Yet Another Distributed Task Queue (YADTQ)
 
 ## Overview
